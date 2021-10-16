@@ -1,0 +1,2 @@
+# IntroToIntelligentSystems
+Bangor20191stSemesterAssignments
